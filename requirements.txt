@@ -9,7 +9,7 @@ anthropic==0.42.0
 yfinance==0.2.36
 pandas==2.2.0
 numpy==1.26.4
-pandas-ta==0.3.14b1
+pandas-ta
 
 # Database
 sqlalchemy==2.0.25
