@@ -7,8 +7,8 @@ anthropic==0.42.0
 
 # Data & Analysis
 yfinance==0.2.36
-pandas==2.2.0
-numpy==1.26.4
+pandas
+numpy
 pandas-ta
 
 # Database
