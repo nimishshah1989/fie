@@ -1,0 +1,13 @@
+client_id,name,risk_profile,strategy_type,total_aum,contact_email,relationship_manager
+JHV-001,Arjun Kapoor,MODERATE,MF_ONLY,5000000,arjun@email.com,Amit Jhaveri
+JHV-002,Meera Sharma,CONSERVATIVE,MF_ONLY,3500000,meera@email.com,Rohan Jhaveri
+JHV-003,Vikram Reddy,AGGRESSIVE,MF_ONLY,15000000,vikram@email.com,Amit Jhaveri
+JHV-004,Nandini Patel,MODERATE,MF_ONLY,7500000,nandini@email.com,Rohan Jhaveri
+JHV-005,Rajesh Gupta,CONSERVATIVE,MF_ONLY,2500000,rajesh@email.com,Amit Jhaveri
+JHV-006,Sunita Iyer,MODERATE,MF_ONLY,8500000,sunita@email.com,Rohan Jhaveri
+JHV-007,Deepak Malhotra,AGGRESSIVE,MF_ONLY,50000000,deepak@email.com,Amit Jhaveri
+JHV-008,Priya Nair,MODERATE,MF_ONLY,4500000,priya@email.com,Rohan Jhaveri
+JHV-009,Karthik Rao,AGGRESSIVE,MF_ONLY,12000000,karthik@email.com,Amit Jhaveri
+JHV-010,Ananya Joshi,CONSERVATIVE,MF_ONLY,3000000,ananya@email.com,Rohan Jhaveri
+PMS-BJ53,Bhaderesh J Jhaveri,AGGRESSIVE,MOMENTUM,5069246,bj@jhaveri.com,Internal
+PMS-JR100,Jhaveri Rohan (Passive Strategy),AGGRESSIVE,MOMENTUM,50565000,jr@jhaveri.com,Internal

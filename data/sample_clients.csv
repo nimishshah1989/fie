@@ -1,0 +1,6 @@
+client_id,name,risk_profile,strategy_type,total_aum,contact_email,relationship_manager
+JHV-001,Rajesh Mehta,MODERATE,MF_ONLY,8500000,rajesh@email.com,Amit Jhaveri
+JHV-002,Priya Sharma,AGGRESSIVE,MF_STOCKS,12000000,priya@email.com,Amit Jhaveri
+JHV-003,Suresh Patel,CONSERVATIVE,MF_ONLY,4500000,suresh@email.com,Rohan Jhaveri
+JHV-004,Anita Desai,MODERATE,MOMENTUM,6500000,anita@email.com,Amit Jhaveri
+JHV-005,Vikram Singh,AGGRESSIVE,PMS,25000000,vikram@email.com,Rohan Jhaveri

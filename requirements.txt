@@ -1,0 +1,33 @@
+# Jhaveri Financial Intelligence Engine - Dependencies
+# Install: pip install -r requirements.txt
+
+# Core
+python-dotenv==1.0.1
+anthropic==0.42.0
+
+# Data & Analysis
+yfinance==0.2.36
+pandas==2.2.0
+numpy==1.26.4
+pandas-ta==0.3.14b1
+
+# Database
+sqlalchemy==2.0.25
+
+# Dashboard
+streamlit==1.40.0
+plotly==5.18.0
+
+# PDF Reports
+fpdf2==2.8.1
+
+# HTTP & Scraping (for AMFI, NSE data)
+requests==2.31.0
+beautifulsoup4==4.12.3
+
+# Scheduling
+apscheduler==3.10.4
+
+# Utilities
+tabulate==0.9.0
+tqdm==4.66.1
