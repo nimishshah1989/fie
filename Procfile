@@ -1,1 +1,1 @@
-web: bash setup.sh && python dashboard/app.py
+web: streamlit run dashboard/app.py --server.port $PORT --server.address 0.0.0.0
